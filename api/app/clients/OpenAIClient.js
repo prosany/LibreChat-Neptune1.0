@@ -1079,8 +1079,8 @@ ${convo}
 
       if (this.useOpenRouter) {
         opts.defaultHeaders = {
-          'HTTP-Referer': 'https://librechat.ai',
-          'X-Title': 'LibreChat',
+          'HTTP-Referer': 'https://web.programming-hero.com',
+          'X-Title': 'HeroGPT',
         };
       }
 
