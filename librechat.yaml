@@ -83,7 +83,8 @@ interface:
   endpointsMenu: true
   modelSelect: true
   parameters: true
-  sidePanel: false
+  sidePanel: true
+  conversationTitle: true
   presets: true
   prompts: true
   bookmarks: true
